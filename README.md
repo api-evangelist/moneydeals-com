@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MoneyDeals is a US‑focused tech‑deals platform that curates, verifies and tracks real‑time pricing for consumer electronics. It offers hand‑picked discounts, coupon codes, expert reviews and buying guides, updating its catalogue daily to help shoppers make informed purchasing decisions.
+MoneyDeals is a US‑focused tech‑deals platform that curates, verifies and publishes daily discounts, coupons and price‑drops on consumer electronics from major retailers. The site aggregates offers, tracks price history, and provides editorial reviews to help shoppers find genuine savings. MoneyDeals earns affiliate commissions and labels sponsored placements, maintaining transparency about revenue sources. Content is updated continuously, with price checks and stock verification to ensure accuracy at the time of publishing.
 
-**Areas:** Tech Deals · E‑commerce · Consumer Electronics · Coupons · Reviews
+**Areas:** Tech Deals · E‑commerce · Affiliate · Consumer Electronics · US Market
 
 ## MoneyDeals on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for MoneyDeals is published on APIs.io rather than in this r
 
 ### APIs (1)
 
-- [MoneyDeals MCP](https://apis.io/apis/moneydeals-com/moneydeals-mcp/) — Free, read‑only MCP server allowing AI assistants to search verified US tech deals, price history and coupon codes. No authentication required.
+- [MoneyDeals MCP](https://apis.io/apis/moneydeals-com/moneydeals-mcp/) — MoneyDeals MCP (Machine-Readable Content) developer portal providing API documentation and tools.
 
 ### Published properties
 
@@ -92,21 +92,20 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://moneydeals.com/)
 - [Documentation](https://www.moneydeals.com/guides)
-- [Blog](https://www.moneydeals.com/news)
 - [Terms of service](https://www.moneydeals.com/terms)
 - [Privacy policy](https://www.moneydeals.com/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 13.1** — emerging · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 11.9** — emerging · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 58.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 21.4 |
+| Developer ergonomics | 19.0 |
 | Access clarity | 17.0 |
 
 **Agent readiness 3.1** — human-only
